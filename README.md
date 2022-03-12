@@ -5,8 +5,7 @@
 
 This is a website build by me to display studio work for Delani studio.
 
-![DESIGN](IMAGES/Delani Studio.jpg)
-
+![IMAGES/Delani Studio.jpg](https://github.com/JAREDKEVIN/Delani-Studio-/blob/8156c527eaf5ee9eef6b740cfba2792311161d3e/IMAGES/Delani%20Studio.jpg)
 **Design**
 
 Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing.
