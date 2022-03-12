@@ -1,5 +1,12 @@
 # Delani-Studio-
 
+
+## Description
+
+This is a website build by me to display studio work for Delani studio.
+
+![DESIGN](IMAGES/Delani Studio.jpg)
+
 **Design**
 
 Our design practice offers a full range of services including brand strategy, interaction and visual design and user experience testing.
