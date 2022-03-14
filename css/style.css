@@ -7,7 +7,7 @@ body{
 
 .landingpage
 {
-    background-image: url(IMAGES/h_img.jpg);
+    background-image: url("/IMAGES/h_img.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -27,7 +27,7 @@ body{
   padding: 2% 30px;
 }
 .services {
-  background-image: url("IMAGES/s_image.jpg");
+  background-image: url("/IMAGES/s_image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -38,7 +38,7 @@ body{
 }
 
 .contact {
-  background-image: url("IMAGES/c_image.jpg");
+  background-image: url("/IMAGES/c_image.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
