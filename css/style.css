@@ -114,3 +114,25 @@ body{
   padding: 15px;
   font-weight: 600;
 }
+.contact .php-email-form .error-message br + br {
+  margin-top: 25px;
+}
+
+.hoover,
+.hoover1,
+.hoover2,
+.hoover3,
+.hoover4,
+.hoover5,
+.hoover6,
+.hoover7 {
+  height: 70%;
+  width: 70%;
+  background: none;
+  top: 0px;
+  border: 10px solid #fff;
+  color: #fff;
+  text-align: left;
+  padding: 20px;
+  display: none;
+}
