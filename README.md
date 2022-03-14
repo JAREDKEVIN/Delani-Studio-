@@ -18,6 +18,13 @@ This is a website build by me to display studio work for Delani studio.
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 
+### Behaviour Driven Development (BDD)
+Behaviour          |	Input                                           |	Output                                   | 
+-------------------|---------------------------------------------------|----------------------------------------------|
+Invalid input      |User enters invalid email                          |An alert message is displayed                 |
+Valid input        |User enters a name and email                       |An alert message is given                     |
+                   |
+
 
 
 ## Setup Instructions
