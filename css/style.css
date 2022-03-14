@@ -1,0 +1,22 @@
+body{
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  font-family: 'Roboto', sans-serif;
+}
+
+.landingpage
+{
+    background-image: url(/IMAGES/h_img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color: #fff;
+    width: 100%;
+    padding: 5%;
+
+}
+.landing-btn {
+  padding: 15% 0;
+}
