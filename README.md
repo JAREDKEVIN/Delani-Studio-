@@ -23,7 +23,7 @@ Behaviour          |	Input                                           |	Output   
 -------------------|---------------------------------------------------|----------------------------------------------|
 Invalid input      |User enters invalid email                          |An alert message is displayed                 |
 Valid input        |User enters a name and email                       |An alert message is given                     |
-                   |
+                   
 
 
 
