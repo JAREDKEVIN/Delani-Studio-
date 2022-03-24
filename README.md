@@ -42,7 +42,7 @@ Click on the live link.
 
 ### Installation Process
 
-* Click on the live link on the description.
+* Click on the live link on the description.[LIVE LINK](https://jaredkevin.github.io/Delani-Studio-/)
 
 
 ## Technology Used
